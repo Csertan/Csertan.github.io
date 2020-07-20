@@ -1,5 +1,6 @@
 {
     "ID": 10001,
+	"UUID": "044682AA-17E2-38E8-B1AD-5789F74E8652",
     "DataProviderID": 9999,
     "OperatorID": 1,
     "UsageTypeID": 1,
@@ -167,6 +168,7 @@
 },
 {
     "ID": 10002,
+	"UUID": "2C7272C5-058B-3966-89D4-E27A32CA0D4E"
     "DataProviderID": 9999,
     "OperatorID": 3251,
     "UsageTypeID": 1,
@@ -275,6 +277,7 @@
 },
 {
     "ID": 10003,
+	"UUID": "144A3537-DA4B-3E11-A2F0-0734DA2C7659",
     "DataProviderID": 9999,
     "OperatorID": 1,
     "UsageTypeID": 1,
@@ -383,6 +386,7 @@
 },
 {
     "ID": 10004,
+	"UUID": "284A8C97-A24E-330A-A68A-11B3B4F1CEB9",
     "DataProviderID": 9999,
     "OperatorID": 3261,
     "UsageTypeID": 1,
@@ -491,6 +495,7 @@
 },
 {
     "ID": 10005,
+	"UUID": "CB0BD450-67E0-37E3-A2AA-EAAFEAE8735C",
     "DataProviderID": 9999,
     "OperatorID": 1,
     "UsageTypeID": 1,
@@ -599,6 +604,7 @@
 },
 {
     "ID": 10006,
+	"UUID": "C20C4100-6B9B-35C2-A7B9-24ACB726915B",
     "DataProviderID": 9999,
     "OperatorID": 3261,
     "UsageTypeID": 1,
@@ -707,6 +713,7 @@
 },
 {
     "ID": 10007,
+	"UUID": "8184E4BE-A126-34D9-93C4-B9060812692D",
     "DataProviderID": 9999,
     "OperatorID": 3261,
     "UsageTypeID": 1,
@@ -815,6 +822,7 @@
 },
 {
     "ID": 10008,
+	"UUID": "DF53A0CD-7F06-3763-9967-55C174521074",
     "DataProviderID": 9999,
     "OperatorID": 3261,
     "UsageTypeID": 1,
