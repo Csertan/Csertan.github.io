@@ -1,0 +1,2222 @@
+[
+{
+    "ID": 10157,
+	"UUID": "11C678DA-559D-33DD-A8A3-CC451B0CE9AD",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Sport utca - Auchan #1",
+        "AddressLine1": "Sport utca 2-4.",
+        "AddressLine2": null,
+        "Town": "Budaörs",
+        "StateOrProvince": null,
+        "Postcode": "2040",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.4540655,
+        "Longitude": 18.9430854,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [18.9430854, 47.4540655]
+    }
+},
+{
+    "ID": 10158,
+	"UUID": "48F85AFA-9101-376E-AE3D-C9B5B6B6689A",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Sport utca - Auchan #2",
+        "AddressLine1": "Sport utca 2-4.",
+        "AddressLine2": null,
+        "Town": "Budaörs",
+        "StateOrProvince": null,
+        "Postcode": "2040",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.4540675,
+        "Longitude": 18.9430834,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [18.9430834, 47.4540675]
+    }
+},
+{
+    "ID": 10160,
+	"UUID": "88007449-E937-37D4-A709-5F0FCB3660E7",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Iparos utca - SPAR #2",
+        "AddressLine1": "Iparos utca",
+        "AddressLine2": null,
+        "Town": "Érd",
+        "StateOrProvince": null,
+        "Postcode": "2030",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.41349,
+        "Longitude": 18.883052,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [18.883052, 47.41349]
+    }
+},
+{
+    "ID": 10161,
+	"UUID": "D5B46C7C-466C-3AF8-8DBC-868CD9828097",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Iparos utca - SPAR #3",
+        "AddressLine1": "Iparos utca",
+        "AddressLine2": null,
+        "Town": "Érd",
+        "StateOrProvince": null,
+        "Postcode": "2030",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.41351,
+        "Longitude": 18.883050,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [18.883050, 47.41351]
+    }
+},
+{
+    "ID": 10169,
+	"UUID": "21DAA636-7397-3D27-BF00-F6F6A44ADFF0",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Háros utca - Auchan #1",
+        "AddressLine1": "Háros utca 120.",
+        "AddressLine2": null,
+        "Town": "Szigetszentmiklós",
+        "StateOrProvince": null,
+        "Postcode": "2310",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.3824416,
+        "Longitude": 19.0282026,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.0282026, 47.3824416]
+    }
+},
+{
+    "ID": 10170,
+	"UUID": "B7FD0028-7F46-383C-AA12-7DFA6AFE4004",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Háros utca - Auchan #2",
+        "AddressLine1": "Háros utca 120.",
+        "AddressLine2": null,
+        "Town": "Szigetszentmiklós",
+        "StateOrProvince": null,
+        "Postcode": "2310",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.3824436,
+        "Longitude": 19.0282056,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.0282056, 47.3824436]
+    }
+},
+{
+    "ID": 10171,
+	"UUID": "855F5F91-C7F3-3FD8-A531-7CC973DE4F42",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Omszk park - Auchan #1",
+        "AddressLine1": "Omszk park 1.",
+        "AddressLine2": null,
+        "Town": "Budakalász",
+        "StateOrProvince": null,
+        "Postcode": "2045",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.6122362,
+        "Longitude": 19.0612384,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.0612384, 47.6122362]
+    }
+},
+{
+    "ID": 10172,
+	"UUID": "12D53B16-1D46-3623-901D-BCE87E65B1F1",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Omszk park - Auchan #2",
+        "AddressLine1": "Omszk park 1.",
+        "AddressLine2": null,
+        "Town": "Budakalász",
+        "StateOrProvince": null,
+        "Postcode": "2045",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.6122382,
+        "Longitude": 19.0612364,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.0612364, 47.6122382]
+    }
+},
+{
+    "ID": 10173,
+	"UUID": "49D1E88B-D5ED-3530-ADF1-5439DBED1F4F",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Szent Flórián utca - Auchan #1",
+        "AddressLine1": "Szent Flórián utca 2.",
+        "AddressLine2": null,
+        "Town": "Solymár",
+        "StateOrProvince": null,
+        "Postcode": "2082",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.599009,
+        "Longitude": 18.960870,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [18.960870, 47.599009]
+    }
+},
+{
+    "ID": 10174,
+	"UUID": "24AB48DD-06E5-3EC4-975D-60DA8F064CF0",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Szent Flórián utca - Auchan #2",
+        "AddressLine1": "Szent Flórián utca 2.",
+        "AddressLine2": null,
+        "Town": "Solymár",
+        "StateOrProvince": null,
+        "Postcode": "2082",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.599029,
+        "Longitude": 18.960890,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [18.960890, 47.599029]
+    }
+},
+{
+    "ID": 10177,
+	"UUID": "46939242-5984-3F0C-AC34-FFFD17713636",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Eszterházy J. u. - Auchan #1",
+        "AddressLine1": "Eszterházy J. u. 1.",
+        "AddressLine2": null,
+        "Town": "Maglód",
+        "StateOrProvince": null,
+        "Postcode": "2234",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.459351,
+        "Longitude": 19.333441,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.333441, 47.459351]
+    }
+},
+{
+    "ID": 10178,
+	"UUID": "592BA0AC-B5E8-39F6-84A0-BDE6606733A3",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Eszterházy J. u. - Auchan #2",
+        "AddressLine1": "Eszterházy J. u. 1.",
+        "AddressLine2": null,
+        "Town": "Maglód",
+        "StateOrProvince": null,
+        "Postcode": "2234",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.459371,
+        "Longitude": 19.333461,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.333461, 47.459371]
+    }
+},
+{
+    "ID": 10179,
+	"UUID": "EA060E3D-8628-366C-8BCB-182647815D4E",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Nádas u. - Auchan #1",
+        "AddressLine1": "Nádas u. 6.",
+        "AddressLine2": null,
+        "Town": "Dunakeszi",
+        "StateOrProvince": null,
+        "Postcode": "2120",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.606804,
+        "Longitude": 19.115060,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.115060, 47.606804]
+    }
+},
+{
+    "ID": 10180,
+	"UUID": "79049EAB-41B9-3978-B8CF-ACF33C24555E",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Nádas u. - Auchan #2",
+        "AddressLine1": "Nádas u. 6.",
+        "AddressLine2": null,
+        "Town": "Dunakeszi",
+        "StateOrProvince": null,
+        "Postcode": "2120",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.606824,
+        "Longitude": 19.115080,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 25,
+                "Title": "Type 2 (Socket Only)",
+                "FormalName": "IEC 62196-2 Type 2",
+                "IsDiscontinued": false,
+                "IsObsolete": false
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 32,
+            "Voltage": 400,
+            "PowerKW": 22,
+            "CurrentTypeID": 20,
+            "CurrentType": {
+                "ID": 20,
+                "Title": "AC (Three-Phase)",
+                "Description": "Alternating Current - Three Phase"
+            },
+            "Quantity": 2
+}],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.115080, 47.606824]
+    }
+},
+{
+    "ID": 20040,
+	"UUID": "CDDD1BA2-4450-3453-9459-948882D6E314",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Nádas u. - Auchan - Villám",
+        "AddressLine1": "Nádas u. 6.",
+        "AddressLine2": null,
+        "Town": "Dunakeszi",
+        "StateOrProvince": null,
+        "Postcode": "2120",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.606844,
+        "Longitude": 19.115100,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 2,
+            "ConnectionType": {
+                "ID": 2,
+                "Title": "CHAdeMO",
+                "FormalName": "IEC 62196-3 Configuration AA",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        },
+		{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 33,
+                "Title": "CCS (Type 2)",
+                "FormalName": "IEC 62196-3 Configuration FF",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        }],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.115100, 47.606844]
+    }
+},
+{
+    "ID": 20039,
+	"UUID": "FC644B31-E2AA-3F0E-A5F5-DDAE501556CD",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Eszterházy J. u. - Auchan - Villám",
+        "AddressLine1": "Eszterházy J. u. 1. - Auchan",
+        "AddressLine2": null,
+        "Town": "Maglód",
+        "StateOrProvince": null,
+        "Postcode": "2234",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.459355,
+        "Longitude": 19.333445,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 2,
+            "ConnectionType": {
+                "ID": 2,
+                "Title": "CHAdeMO",
+                "FormalName": "IEC 62196-3 Configuration AA",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        },
+		{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 33,
+                "Title": "CCS (Type 2)",
+                "FormalName": "IEC 62196-3 Configuration FF",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        }],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.333445, 47.459355]
+    }
+},
+{
+    "ID": 20037,
+	"UUID": "ACFF8F0D-D83D-3EAF-BC40-C5A710878ADF",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Szent Flórián utca - Auchan - Villám",
+        "AddressLine1": "Szent Flórián utca 2.",
+        "AddressLine2": null,
+        "Town": "Solymár",
+        "StateOrProvince": null,
+        "Postcode": "2082",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.599049,
+        "Longitude": 18.960910,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 2,
+            "ConnectionType": {
+                "ID": 2,
+                "Title": "CHAdeMO",
+                "FormalName": "IEC 62196-3 Configuration AA",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        },
+		{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 33,
+                "Title": "CCS (Type 2)",
+                "FormalName": "IEC 62196-3 Configuration FF",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        }],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [18.960910, 47.599049]
+    }
+},
+{
+    "ID": 20036,
+	"UUID": "7C00D908-D904-36B6-8C30-112DBCD4CF5E",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Omszk park - Auchan - Villám",
+        "AddressLine1": "Omszk park 1.",
+        "AddressLine2": null,
+        "Town": "Budakalász",
+        "StateOrProvince": null,
+        "Postcode": "2045",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.6122402,
+        "Longitude": 19.0612424,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 2,
+            "ConnectionType": {
+                "ID": 2,
+                "Title": "CHAdeMO",
+                "FormalName": "IEC 62196-3 Configuration AA",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        },
+		{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 33,
+                "Title": "CCS (Type 2)",
+                "FormalName": "IEC 62196-3 Configuration FF",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        }],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.0612424, 47.6122402]
+    }
+},
+{
+    "ID": 20035,
+	"UUID": "4A50B822-A265-3986-A717-21FE1494F3CA",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Sport utca - Auchan  - Villám",
+        "AddressLine1": "Sport utca 2-4.",
+        "AddressLine2": null,
+        "Town": "Budaörs",
+        "StateOrProvince": null,
+        "Postcode": "2040",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.4540695,
+        "Longitude": 18.9430894,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 2,
+            "ConnectionType": {
+                "ID": 2,
+                "Title": "CHAdeMO",
+                "FormalName": "IEC 62196-3 Configuration AA",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        },
+		{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 33,
+                "Title": "CCS (Type 2)",
+                "FormalName": "IEC 62196-3 Configuration FF",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        }],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [18.9430894, 47.4540695]
+    }
+},
+{
+    "ID": 20034,
+	"UUID": "0D160894-D6EB-3DC9-8A97-3F1BDB2FE437",
+    "DataProviderID": 9999,
+    "OperatorID": 3307,
+    "UsageTypeID": 1,
+    "UsageCost": {
+		"ID": 2,
+		"Type": "Power-based",
+		"PricePerMinute": null,
+		"FreeMinutes": null,
+		"PricePerKWh": 100,
+		"FreeKWhs": null,
+		"PricePerOccasion": null,
+		"ParkingFeePerHour": null,
+		"FreeParkingMinutes": null,
+		"IsSubscriptionAvailable": null,
+		"Currency": "HUF"
+	},
+    "AddressInfo": {
+        "Title": "Háros utca - Auchan - Villám",
+        "AddressLine1": "Háros utca 120.",
+        "AddressLine2": null,
+        "Town": "Szigetszentmiklós",
+        "StateOrProvince": null,
+        "Postcode": "2310",
+        "CountryID": 104,
+        "Country": {
+            "ID": 104,
+            "Title": "Hungary",
+            "ISOCode": "HU",
+            "ContinentCode": "EU"
+        },
+        "Latitude": 47.3824456,
+        "Longitude": 19.0282066,
+        "AccessComments": null,
+        "GeneralComments": null
+    },
+    "Connections": [{
+            "ID": 1,
+            "ConnectionTypeID": 2,
+            "ConnectionType": {
+                "ID": 2,
+                "Title": "CHAdeMO",
+                "FormalName": "IEC 62196-3 Configuration AA",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        },
+		{
+            "ID": 1,
+            "ConnectionTypeID": 33,
+            "ConnectionType": {
+                "ID": 33,
+                "Title": "CCS (Type 2)",
+                "FormalName": "IEC 62196-3 Configuration FF",
+                "IsDiscontinued": null,
+                "IsObsolete": null
+            },
+            "StatusTypeID": 50,
+            "StatusType": {
+                "ID": 50,
+                "Title": "Operational",
+                "IsOperational": true,
+                "IsUserSelectable": true
+            },
+            "LevelID": null,
+            "Level": null,
+            "Amps": 125,
+            "Voltage": 400,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "CurrentType": {
+                "ID": 30,
+                "Title": "DC",
+                "Description": "Direct Current"
+            },
+            "Quantity": 1
+        }],
+    "GeneralComments": null,
+	"Chargers": null,
+    "StatusTypeID": 50,
+    "DataProvider": {
+        "ID": 9999,
+        "Title": "Volteum Contributors",
+        "WebsiteURL": "https://volteum.io"
+    },
+    "OperatorInfo": {
+        "ID": 3307,
+      "Title": "NKM mobiliti",
+	  "WebsiteURL": "https://www.mobiliti.hu/emobilitas",
+      "Comments": null,
+      "PhonePrimaryContact": null,
+        "ContactEmail": "mobiliti@mobiliti.hu"
+    },
+    "UsageType": {
+        "ID": 1,
+        "Title": "Public",
+        "IsPayAtLocation": null,
+        "IsMembershipRequired": null,
+        "IsAccessKeyRequired": null
+    },
+    "StatusType": {
+        "ID": 50,
+        "Title": "Operational",
+        "IsOperational": true,
+        "IsUserSelectable": true
+    },
+    "SpatialPosition": {
+        "type": "Point",
+        "coordinates": [19.0282066, 47.3824456]
+    }
+}
+]
