@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: I'm avoiding Twitter
 github_username:  csertant
+linkedin_name: Tamas Csertan
 linkedin_profile: https://www.linkedin.com/in/tam%C3%A1s-csert%C3%A1n-76102a175
 
 # Build settings
