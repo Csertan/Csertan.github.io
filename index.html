@@ -1,23 +1,31 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Webpage of Tamás Csertán</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="" />
+    <meta name="description" content="Webpage of Tamás Csertán" />
+    <meta name="revised" content="20/01/2021" />
+    <meta name="author" content="Tamas Csertan" />
+    <meta name="robots" content="index, follow" />
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+    <meta http-equiv = "Content-Type" content = "text/html"/>
 
-<div class="home">
+    <meta name="og:title" content="Webpage of Tamás Csertán"/>
+    <meta name="og:type" content="website"/>
+    <meta name="og:url" content="https://csertant.github.io"/>
+    <meta name="og:image" content=""/>
+    <meta name="og:site_name" content="Webpage of Tamás Csertán"/>
+    <meta name="og:description" content=""/>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+    <link rel="shortcut icon" href="./assets/" type="image/ico" />
+    <link rel="stylesheet" href="./css/main.css"
+  </head>
+  <body oncontextmenu="return false;">
+    <div class="content-wrapper">
+      <div class="image-wrapper"></div>
+      <div class="contact-wrapper"></div>
+    </div>
+  </body>
+</html>
