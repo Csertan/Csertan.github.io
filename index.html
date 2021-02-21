@@ -5,7 +5,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="" />
-    <meta name="description" content="Webpage of Tamás Csertán" />
+    <meta name="description" content="tamas csertan" />
     <meta name="revised" content="20/01/2021" />
     <meta name="author" content="Tamas Csertan" />
     <meta name="robots" content="index, follow" />
@@ -20,12 +20,30 @@
     <meta name="og:description" content=""/>
 
     <link rel="shortcut icon" href="./assets/" type="image/ico" />
-    <link rel="stylesheet" href="./css/main.css"
+    <link rel="stylesheet" href="./css/normalize.css" />
+    <link rel="stylesheet" href="./css/main.css" />
   </head>
-  <body oncontextmenu="return false;">
+  <body class="light-theme" oncontextmenu="return false;">
     <div class="content-wrapper">
-      <div class="image-wrapper"></div>
-      <div class="contact-wrapper"></div>
+      <div class="left-wrapper">
+        <div class="controls-wrapper">
+          <a class="btn-toggle">toggle dark theme</a>
+        </div>
+        <div class="personal-wrapper">
+          <h1>brief text that shows something</h1>
+          <h1>tamás csertán</h1>
+          <h1>csertant@edu.bme.hu</h1>
+        </div>
+        <div class="links-wrapper">
+          <p onmouseover="displayImage('tavaly.png')">tavaly</p>
+          <p onmouseover="displayImage('koromvihar.png')">koromvihar</p>
+          <p onmouseover="displayImage('etc.png')">etc.</p>
+        </div>
+      </div>
+      <div class="image-wrapper">
+        <div id="image-show" class="image-show"></div>
+      </div>
     </div>
   </body>
+  <script src="./main.js" type="text/javascript"></script>
 </html>
