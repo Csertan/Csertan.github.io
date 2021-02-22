@@ -1,4 +1,4 @@
-var default_image = "default.png";
+var default_image = "default.jpg";
 
 var btn = document.querySelector('.btn-toggle');
 var btn_icon_dark = document.querySelector('#btn-toggle-icon-dark');
@@ -14,6 +14,5 @@ window.onload = displayImage(default_image);
 
 function displayImage(image_slug) {
     var container = document.getElementById('image-show');
-    container.style.background = "url('./assets/"+ image_slug + "') no-repeat center";
-    container.style.backgroundSize = "cover";
+    container.style.backgroundImage = "url('./assets/"+ image_slug + "')";
 }

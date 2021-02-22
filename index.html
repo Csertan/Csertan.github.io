@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Webpage of Tamás Csertán</title>
+    <title>tamas csertan</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="" />
@@ -23,35 +23,41 @@
     <link rel="stylesheet" href="./css/normalize.css" />
     <link rel="stylesheet" href="./css/main.css" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Text&display=swap" rel="stylesheet">
   </head>
   <body class="light-theme" oncontextmenu="return false;">
+    <!-- Content -->
     <div class="content-wrapper">
+      <!-- Left side -->
       <div class="left-wrapper">
         <div class="controls-wrapper">
           <div class="btn-toggle">
-            <span id="btn-toggle-icon-dark" class="material-icons">
-              dark_mode
-            </span>
-            <span id="btn-toggle-icon-light" class="material-icons hidden">
-              light_mode
-            </span>
+            <span id="btn-toggle-icon-dark" class="material-icons">dark_mode</span>
+            <span id="btn-toggle-icon-light" class="material-icons hidden">light_mode</span>
           </div>
         </div>
         <div class="personal-wrapper">
           <h1>brief text that shows something</h1>
           <h1>tamás csertán</h1>
-          <h1>csertant@edu.bme.hu</h1>
+          <h1><a href="mailto:csertant@edu.bme.hu">csertant@edu.bme.hu</a></h1>
         </div>
         <div class="links-wrapper">
-          <p onmouseover="displayImage('tavaly.png')">tavaly</p>
-          <p onmouseover="displayImage('koromvihar.png')">koromvihar</p>
-          <p onmouseover="displayImage('etc.png')">etc.</p>
+          <div class="social-media-wrapper">
+            <a id="github-link" href="https://github.com/csertant" target="_blank"></a>
+            <a id="linkedin-link" href="https://linkedin.com/in/tamás-csertán" target="_blank"></a>
+          </div>
+          <div class="image-link-wrapper">
+            <p onmouseover="displayImage('default.jpg')">tavaly</p>
+            <p onmouseover="displayImage('default.jpg')">koromvihar</p>
+            <p onmouseover="displayImage('default.jpg')">etc.</p>
+          </div>
         </div>
-      </div>
+      </div> <!-- /Left side -->
       <div class="image-wrapper">
         <div id="image-show" class="image-show"></div>
       </div>
-    </div>
+    </div> <!-- /Content -->
   </body>
   <script src="./main.js" type="text/javascript"></script>
 </html>
