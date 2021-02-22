@@ -22,12 +22,20 @@
     <link rel="shortcut icon" href="./assets/" type="image/ico" />
     <link rel="stylesheet" href="./css/normalize.css" />
     <link rel="stylesheet" href="./css/main.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
   </head>
   <body class="light-theme" oncontextmenu="return false;">
     <div class="content-wrapper">
       <div class="left-wrapper">
         <div class="controls-wrapper">
-          <a class="btn-toggle">toggle dark theme</a>
+          <div class="btn-toggle">
+            <span id="btn-toggle-icon-dark" class="material-icons">
+              dark_mode
+            </span>
+            <span id="btn-toggle-icon-light" class="material-icons hidden">
+              light_mode
+            </span>
+          </div>
         </div>
         <div class="personal-wrapper">
           <h1>brief text that shows something</h1>
