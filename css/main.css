@@ -8,14 +8,14 @@ html {
 body {
     --default-background-color: #fff;
     --text-color: #000;
-    --url-github-icon: url('../assets/Github-Mark-32px.png');
-    --url-linkedin-icon: url('../assets/LI-In-Bug.png');
+    --url-github-icon: url('../assets/GH.png');
+    --url-linkedin-icon: url('../assets/LI.png');
 }
 body.dark-theme {
     --default-background-color: #000;
     --text-color: #fff;
-    --url-github-icon: url('../assets/Github-Mark-Light-32px.png');
-    --url-linkedin-icon: url('../assets/LI-In-Bug-Light.png');
+    --url-github-icon: url('../assets/GH-Light-32px.png');
+    --url-linkedin-icon: url('../assets/LI-Light.png');
 }
 .hidden {
     visibility: hidden;
@@ -38,6 +38,7 @@ body.dark-theme {
     flex-flow: column wrap;
     align-items: flex-start;
     justify-content: space-between;
+    transition: all .3s;
 }
 .controls-wrapper {
     margin: 15px 0;
@@ -117,6 +118,7 @@ body.dark-theme {
 a {
     color: var(--text-color);
     text-decoration: none;
+    transition: all .3s;
 }
 a:hover {
     color: gray;
