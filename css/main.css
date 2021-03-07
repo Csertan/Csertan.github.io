@@ -14,7 +14,7 @@ body {
 body.dark-theme {
     --default-background-color: #000;
     --text-color: #fff;
-    --url-github-icon: url('../assets/GH-Light-32px.png');
+    --url-github-icon: url('../assets/GH.png');
     --url-linkedin-icon: url('../assets/LI-Light.png');
 }
 .hidden {
