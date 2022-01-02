@@ -43,6 +43,7 @@ body.dark-theme {
 }
 .controls-wrapper {
     margin: 15px 0;
+    cursor: pointer;
 }
 .btn-toggle {
     display: flex;
